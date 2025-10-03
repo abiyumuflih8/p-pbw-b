@@ -16,12 +16,11 @@ lahir (DD-MM-YYYY) sudah benar.
 menampilkannya dalam bentuk tabel.
 ## Tampilan Aplikasi
 **Tampilan Awal Form**
-*(Letakkan screenshot tampilan form kosong di sini)*
-![Tampilan Form]()
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/be345a9c-0ac2-4555-a775-069105418f68" />
+
 **Tampilan Setelah Pendaftaran Berhasil**
-*(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
-![Tampilan Sukses](link_ke_screenshot_anda_2.png)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b54891e7-edb4-4901-97ca-913add0da929" />
+
 **Contoh Pesan Error Validasi**
-*(Letakkan screenshot tampilan saat ada error validasi di sini)*
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c5e6468-a438-4920-b6ec-3f483a2da9b0" />
 
